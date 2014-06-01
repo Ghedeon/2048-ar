@@ -1,0 +1,14 @@
+Base path: D:/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-12812
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=683 outsize=683 ok=1
+Cmd: preprocess
+  insize=995 outsize=995 ok=1
+Cmd: preprocess
+  insize=534 outsize=534 ok=1
+Cmd: preprocess
+  insize=942 outsize=275 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (39): syntax error: unexpected token 'f'
+  api=4 type=0 insize=931 outsize=0 kw= ok=0
